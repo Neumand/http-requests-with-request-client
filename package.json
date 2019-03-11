@@ -1,0 +1,25 @@
+{
+  "name": "http-requests-with-request-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Neumand/http-requests-with-request-client.git"
+  },
+  "author": "David Neuman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neumand/http-requests-with-request-client/issues"
+  },
+  "homepage": "https://github.com/Neumand/http-requests-with-request-client#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@types/request": "^2.48.1"
+  }
+}
